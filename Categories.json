@@ -1,0 +1,5 @@
+{
+  "Dining": ["Starbucks", "Dominos", "Cafe Coffee Day"],
+  "Fuel": ["Shell", "IndianOil", "HP"],
+  "Shopping": ["Amazon", "Flipkart", "Big Bazaar"]
+}
